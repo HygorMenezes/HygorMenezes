@@ -1,16 +1,28 @@
-### Hi there 👋
+### Oi, me chamo Hygor, seja bem-vindo/a! 👋
 
-<!--
-**HygorMenezes/HygorMenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✈ Hoje eu trabalho como analista na companhia Azul Linhas Aéreas.✈
+- 🌱 Deep learning e estou curtindo muito.
+- 👯 Projetos para aprender e evoluir.
+- 🤔 Opostunidades e guidance.
+- 🎞 Fun fact: Viciado em filmes!🎞
+
+
+<a href="https://github.com/HygorMenezes">
+  <img height='180em' img align="center" src="https://github-readme-stats.vercel.app/api?username=HygorMenezes&theme=merko" />
+</a>
+<a href="https://github.com/HygorMenezes">
+  <img height='180em' img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HygorMenezes&repo=IMDBporject&theme=merko" />
+</a>
+
+##
+<a href="https://github.com/HygorMenezes">
+  <img height='50em' img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+</a>
+<a href="https://github.com/HygorMenezes">
+  <img height='50em' img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg"  />
+</a>
+          
+          
