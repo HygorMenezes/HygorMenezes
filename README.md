@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/HygorMenezes">
-  <img height='180em' img align="center" src="https://github-readme-stats.vercel.app/api?username=HygorMenezes&theme=merko" />
+  <img height='150em' img align="center" src="https://github-readme-stats.vercel.app/api?username=HygorMenezes&theme=merko" />
 </a>
 <a href="https://github.com/HygorMenezes">
-  <img height='180em' img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HygorMenezes&repo=IMDBporject&theme=merko" />
+  <img height='150em' img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HygorMenezes&repo=IMDBporject&theme=merko" />
 </a>
 
 ##
